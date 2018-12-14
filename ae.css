@@ -1,0 +1,68 @@
+body{ 
+	font-family: century gothic;
+	background: #f1f1f1;	
+}
+.top {
+	background: #222;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+img {
+	border-radius: 50%;
+}
+.mid {
+	background: #444;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.top-mid {
+	background: #555;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.bottom {
+	background: #666;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.hmm {
+	background: #333;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.about {
+	background: #777;
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-instagram {
+    background: #222;
+    color: white;
+}
+.fa-google {
+    background: #222;
+    color: white;
+}
+.fa-facebook {
+    background: #222;
+    color: white;
+}
